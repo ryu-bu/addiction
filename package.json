@@ -1,0 +1,12 @@
+{
+  "name": "addiction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryu-bu/addiction",
+  "author": "Ryuichi Ohhata <ryu74@bu.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.8.0",
+    "vuetify": "^2.4.2"
+  }
+}
